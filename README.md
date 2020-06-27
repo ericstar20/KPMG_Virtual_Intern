@@ -16,13 +16,14 @@ Sprocket Central Pty Ltd is keen to learn more about KPMG’s expertise in its A
 As a data analyst, my primary mission is assisting Sprocket Central Pty Ltd with its customer and transaction data. Then, help them to make better marketing strategies.
 
 ## Getting Started
-This internships has three Tasks:
+This internship has three Tasks:
 
 1. Data Quality: this task involved assessing the data quality to ensure it was ready for analysis.
 
-2. Data Insights: this module involved analysing customer databases to determine customer trends and behaviour.
+2. Data Insights: this module involved analyzing customer databases to determine customer trends and behavior.
 
-3. Data Presentation: dashboards were created to suggest ways on how the client could think about growing the business. 
+3. Data Presentation: dashboards were created to suggest ways on how the client could think about growing the business.
+
       
 ## Result
 I used Agglomerative Clustering to create customer segments on the old customer data. Then, using this model to predict new customers' potential clusters. 
